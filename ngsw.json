@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1746025766915,
+  "timestamp": 1746025940094,
   "index": "https://merlin21x.github.io/proyectopwa/index.csr.html",
   "assetGroups": [
     {
@@ -14,7 +14,7 @@
         "https://merlin21x.github.io/proyectopwa/favicon.ico",
         "https://merlin21x.github.io/proyectopwa/index.csr.html",
         "https://merlin21x.github.io/proyectopwa/index.html",
-        "https://merlin21x.github.io/proyectopwa/main-5GG2Y5TR.js",
+        "https://merlin21x.github.io/proyectopwa/main-BERIWYMF.js",
         "https://merlin21x.github.io/proyectopwa/manifest.webmanifest",
         "https://merlin21x.github.io/proyectopwa/polyfills-FFHMD2TL.js",
         "https://merlin21x.github.io/proyectopwa/styles-5INURTSO.css"
@@ -52,9 +52,9 @@
     "https://merlin21x.github.io/proyectopwa/icons/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
     "https://merlin21x.github.io/proyectopwa/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
     "https://merlin21x.github.io/proyectopwa/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
-    "https://merlin21x.github.io/proyectopwa/index.csr.html": "ee7ab5e0ee2948c1d3ddcaaecb4238b2f40eb2d7",
-    "https://merlin21x.github.io/proyectopwa/index.html": "8e3c0077d5837ce8f3ed8249fc16d9911d86cb63",
-    "https://merlin21x.github.io/proyectopwa/main-5GG2Y5TR.js": "954219a2bd7ba8956aab5247f64ecfe21549864c",
+    "https://merlin21x.github.io/proyectopwa/index.csr.html": "7e513d3ba4653b619cf9307f7ada13c849a08259",
+    "https://merlin21x.github.io/proyectopwa/index.html": "e60aa773d90586854d53a5722d13f87bb0e00883",
+    "https://merlin21x.github.io/proyectopwa/main-BERIWYMF.js": "5aefda9859cde3bc89bee8e92a0c148c17aa2553",
     "https://merlin21x.github.io/proyectopwa/manifest.webmanifest": "dd9d3d9e77a7fc94450fa5e0b4979fbc8a733b20",
     "https://merlin21x.github.io/proyectopwa/polyfills-FFHMD2TL.js": "f49b49a155bc7d192db62a4c15d0a612b460a667",
     "https://merlin21x.github.io/proyectopwa/styles-5INURTSO.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
